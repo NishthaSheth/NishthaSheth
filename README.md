@@ -8,7 +8,7 @@ Skills: Data Analytics, Data Visualization, Machine Learning, Database Managemen
 
 - 🔭 I’m currently working on Data Analysis and Machine Learning 
 - 🌱 I’m currently learning Statistical Modeling 
-- 💬 Ask me about Healthy Food, SQL Queries, Machine Learning 
+- 💬 Ask me about Data, SQL Queries, Machine Learning 
 - 📫 How to reach me: nishthasheth10@gmail.com 
 - ⚡ Fun fact: I write a lot of Notes. 
 
