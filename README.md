@@ -1,16 +1,14 @@
-### Hi there 👋, my name is Nishtha
-#### I am a Data Analyst
+Hi there 👋, my name is Nishtha
+I am a Data Scientist
+I am a Data Scientist specializing in data analysis, visualization, and creating efficient machine learning pipelines. Currently, I work at eVitalRX, leveraging advanced analytics and ML models to optimize pharmaceutical inventory management and operations.
 
+Skills: Data Analytics, Machine Learning, Data Visualization, Database Management
+Programming: Python, SQL
 
-I am a Data Analyst specializing in data visualization and exploration, Creating Interactive Dash Boards, Data Processing, Creating Efficient Machine Learning Pipelines and SQL
-
-Skills: Data Analytics, Data Visualization, Machine Learning, Database Management Programming: Python, SQL 
-
-- 🔭 I’m currently working on Data Analysis and Machine Learning 
-- 🌱 I’m currently learning Statistical Modeling 
-- 💬 Ask me about Data, SQL Queries, Machine Learning 
-- 📫 How to reach me: nishthasheth10@gmail.com 
-- ⚡ Fun fact: I write a lot of Notes. 
+🔭 I’m currently working on predictive modeling and advanced data analytics
+🌱 I’m currently learning Statistical Modeling and Bayesian Methods
+💬 Ask me about Data Science, SQL Queries, and ML Pipelines
+📫 How to reach me: nishthasheth10@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NishthaSheth)  
